@@ -14,6 +14,14 @@
     }
 
 .text_01 {
-
-  color: azure;
+  
+    position: absolute;
+    top: 450%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(255, 255, 255);
 }    
