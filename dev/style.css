@@ -1,3 +1,4 @@
+/* svg to code goes crazy https://nikitahl.github.io/svg-2-code/ */
 #svg166 {
     width: 96px;
     height: auto;
@@ -24,6 +25,7 @@
       url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000vw 0'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='5' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='1000vw' height='1000vh' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");  
     }
 
+/* placeholder */
 .text_01 {  
     position: absolute;
     z-index: 2;
